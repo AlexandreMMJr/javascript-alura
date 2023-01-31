@@ -15,4 +15,3 @@ function multiplica(numero1, numero2){
 }
 
 console.log(multiplica(soma(4, 3), soma(5, 8)))
-
